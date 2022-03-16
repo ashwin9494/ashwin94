@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ashwin9494
+- 👋 Hi, I’m Ashwin
 - 👀 I’m interested in solving complex problems in diverse domains.
 - 🌱 I’m currently learning Data Science and Various Tools of Analytics
